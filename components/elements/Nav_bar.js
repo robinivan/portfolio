@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
 
-function About() {
+function Nav_bar() {
     return(
         <div>
-
+            hello
         </div>
     )
 }
-export default About();
+export default Nav_bar();

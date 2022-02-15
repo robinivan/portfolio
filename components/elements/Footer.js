@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
 
-function Projects() {
+function Footer() {
     return(
         <div>
-
+            man
         </div>
     )
 }
-export default Projects();
+export default Footer();
