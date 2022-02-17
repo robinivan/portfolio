@@ -1,14 +1,14 @@
-import React, {useState} from 'react';
+import React, {useState} from 'react'
 import './css/Main.css';
 import Nav_bar from "./elements/Nav_bar";
 import Footer from "./elements/Footer";
 
-function Projects() {
+export default function Contact() {
     return(
-        <div>
+        <div className='background'>
             <Nav_bar/>
+
             <Footer/>
         </div>
     )
 }
-export default Projects();

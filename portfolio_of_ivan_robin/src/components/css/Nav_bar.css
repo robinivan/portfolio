@@ -1,0 +1,8 @@
+.pages {
+    display: flex;
+    color: #5C5959;
+    font-family: Raleway;
+}
+.pages:hover {
+    color:#ffffff;
+}

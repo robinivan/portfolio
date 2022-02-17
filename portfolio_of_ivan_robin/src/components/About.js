@@ -3,12 +3,11 @@ import './css/Main.css';
 import Nav_bar from "./elements/Nav_bar";
 import Footer from "./elements/Footer";
 
-function About() {
+export default function About() {
     return(
-        <div>
+        <div className='background'>
             <Nav_bar/>
             <Footer/>
         </div>
     )
 }
-export default About();

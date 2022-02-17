@@ -1,10 +1,8 @@
 import React, {useState} from 'react';
 
-function Nav_bar() {
+export default function Footer() {
     return(
         <div>
-            hello
         </div>
     )
 }
-export default Nav_bar();
