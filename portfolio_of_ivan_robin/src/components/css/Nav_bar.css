@@ -2,7 +2,22 @@
     display: flex;
     color: #5C5959;
     font-family: Raleway;
+    margin: 10px;
+}
+.pagetheone {
+    display: flex;
+    color: #ffffff;
+    font-family: Raleway;
+    margin: 10px;
 }
 .pages:hover {
     color:#ffffff;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    width: 100%;
+    margin-right: 5vw;
 }

@@ -6,7 +6,7 @@ import Footer from "./elements/Footer";
 export default function About() {
     return(
         <div className='background'>
-            <Nav_bar/>
+            <Nav_bar page="1"/>
             <Footer/>
         </div>
     )

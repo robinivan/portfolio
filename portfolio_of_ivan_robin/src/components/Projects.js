@@ -6,7 +6,7 @@ import Footer from "./elements/Footer";
 export default function Projects() {
     return(
         <div className='background'>
-            <Nav_bar/>
+            <Nav_bar page="2"/>
             <Footer/>
         </div>
     )

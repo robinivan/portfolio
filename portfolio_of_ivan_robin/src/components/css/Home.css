@@ -53,3 +53,8 @@
         transform: translate(24px, 0);
     }
 }
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
